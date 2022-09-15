@@ -1,0 +1,9 @@
+.quote {
+    position: absolute;
+    font-style: italic;
+    font-size: 12px;
+    
+    bottom: 25px;
+    left: 25px;
+  }
+  
